@@ -17,7 +17,6 @@ This project highlights my skills, projects, and contact information in a clean,
 - **CSS3** (Flexbox, Grid, Animations)  
 - **JavaScript**  
 
-👉 [View on GitHub Pages](https://your-username.github.io/portfolio-website/)  
 
 ## 📂 Installation  
 To run this project locally:  
